@@ -70,6 +70,10 @@
   <img height="30px" wight="30px" src="https://cdn.icon-icons.com/icons2/159/PNG/256/deezer_22419.png"   
      alt="Markdown Monsters icon"
      style="float: left; margin-right: 100px;" /> Deezer : Bastien.bgrd
+   
+   <img height="30px" wight="30px" src="https://cdn.icon-icons.com/icons2/122/PNG/512/icq_socialnetwork_20035.png"   
+     alt="Markdown Monsters icon"
+     style="float: left; margin-right: 100px;" /> Deezer : Bastien.bgrd
      
 
      
